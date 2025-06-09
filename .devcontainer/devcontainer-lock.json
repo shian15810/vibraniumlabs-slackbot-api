@@ -6,9 +6,9 @@
       "integrity": "sha256:f88d97d2766f49c1ec10731e3e2a16156d3193b6b874339a71dec114d3edf8ff"
     },
     "ghcr.io/devcontainers-extra/features/prisma:2": {
-      "version": "2.0.15",
-      "resolved": "ghcr.io/devcontainers-extra/features/prisma@sha256:782ee94dc24d5d77097b36ca279370d657ad0ee3354689da5d7b4ce282595c4e",
-      "integrity": "sha256:782ee94dc24d5d77097b36ca279370d657ad0ee3354689da5d7b4ce282595c4e"
+      "version": "2.0.16",
+      "resolved": "ghcr.io/devcontainers-extra/features/prisma@sha256:fe16ae2bf59ef855df4119c01da2c8572d7a4eec0ae7eb715e550a35152de18c",
+      "integrity": "sha256:fe16ae2bf59ef855df4119c01da2c8572d7a4eec0ae7eb715e550a35152de18c"
     }
   }
 }
