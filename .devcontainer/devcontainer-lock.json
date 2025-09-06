@@ -1,9 +1,9 @@
 {
   "features": {
     "ghcr.io/devcontainers-extra/features/nestjs-cli:2": {
-      "version": "2.0.15",
-      "resolved": "ghcr.io/devcontainers-extra/features/nestjs-cli@sha256:f88d97d2766f49c1ec10731e3e2a16156d3193b6b874339a71dec114d3edf8ff",
-      "integrity": "sha256:f88d97d2766f49c1ec10731e3e2a16156d3193b6b874339a71dec114d3edf8ff"
+      "version": "2.0.16",
+      "resolved": "ghcr.io/devcontainers-extra/features/nestjs-cli@sha256:ab4c5c5064288e2d1d51081e3429fabb3394fdfc575305c768328d5ab167f8b6",
+      "integrity": "sha256:ab4c5c5064288e2d1d51081e3429fabb3394fdfc575305c768328d5ab167f8b6"
     },
     "ghcr.io/devcontainers-extra/features/prisma:2": {
       "version": "2.0.15",
